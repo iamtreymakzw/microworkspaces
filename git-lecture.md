@@ -16,3 +16,11 @@
 - A Web Browser
 - A Google Account
 - A Code Editor - VS Code
+
+### Verification
+
+##### _Steps to check understanding_
+
+### Activity
+
+##### _Describe Activity to enforce learning_
