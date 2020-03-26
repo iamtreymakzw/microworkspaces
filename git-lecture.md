@@ -3,3 +3,9 @@
 ##### _Lesson Plan for Search Engine Optimisation_
 
 ##### _Prepared by T. Makausi and T Marengereke_
+
+### Overview and Purpose
+
+### Education Standards
+
+### Objectives
