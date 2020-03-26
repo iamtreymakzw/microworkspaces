@@ -9,3 +9,10 @@
 ### Education Standards
 
 ### Objectives
+
+### Materials Needed
+
+- A PC
+- A Web Browser
+- A Google Account
+- A Code Editor - VS Code
