@@ -6,9 +6,16 @@
 
 ### Overview and Purpose
 
+To allow learners to understand how websites are ranked and improve their rankings.
+
 ### Education Standards
 
+1. Ability to create top ranked websites
+
 ### Objectives
+
+- Create web friendly sites
+- Scrawlable by search engines
 
 ### Materials Needed
 
@@ -21,6 +28,12 @@
 
 ##### _Steps to check understanding_
 
+- Learner websites shoould appear on top results.
+- Monetize with google
+- Perform analytics to improve the website
+
 ### Activity
 
 ##### _Describe Activity to enforce learning_
+
+Learners should be able to create websites that can be scrawled by search engines.
